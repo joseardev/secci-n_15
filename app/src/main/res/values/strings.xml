@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarAlert</string>
+    <string name="button_consult">Consultar</string>
+    <string name="crear_button">Crear Button</string>
+    <string name="ingrese_su_cup_n">Ingrese su cupón</string>
+    <string name="cupon_pon">Cúpon</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="error_unique_code">Error desconocido al crear cupon</string>
+    <string name="error_invalid_length">El cupon debe tener entre 5 y 10 caractee</string>
+    <string name="error_desconocido">Error Desconocido al crear cupon</string>
+    <string name="cupon_create">Cupón creado.</string>
+    <string name="main_hint_active">activo</string>
+</resources>
