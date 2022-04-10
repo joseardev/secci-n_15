@@ -10,4 +10,7 @@
     <string name="error_desconocido">Error Desconocido al crear cupon</string>
     <string name="cupon_create">Cupón creado.</string>
     <string name="main_hint_active">activo</string>
+    <string name="main_text_title">main title</string>
+    <string name="main_text_title_create">main_title_create</string>
+    <string name="main_save_success">cupon creado</string>
 </resources>

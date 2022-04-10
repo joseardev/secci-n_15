@@ -11,7 +11,7 @@ class MainRepository {
 
     suspend fun consultCouponByCode(code:String) = roomDatabase.consultCouponByCode(code)
 
-    suspend fun saveCoupo(couponEntity: CouponEntity){
+    suspend fun saveCoupon(couponEntity: CouponEntity){
         if(validateTextCode(couponEntity.code)){
             roomDatabase.saveCoupon(couponEntity)
         }else{
